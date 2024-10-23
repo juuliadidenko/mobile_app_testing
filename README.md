@@ -36,4 +36,4 @@
 Прохождение проверок из чек-листа помогло мне обнаружить дефекты приложения.
 Баг-репорты создала в YouTrack. В кейсах, где приложение падало после выполненных шагов, приложила логи из Android Studio. 
 
-Примеры баг-репортов [здесь](https://github.com/juuliadidenko/mobile_app_testing/tree/main/YouTrack%20bug%20reports)
+Примеры баг-репортов [здесь](https://github.com/juuliadidenko/mobile_app_testing/blob/main/to_do_mvp_youtrack_bugreports.pdf)
